@@ -7,7 +7,7 @@ Enthusiastic and punctual professional with a strong focus on career growth. Dem
 - 💬 Ask me about **Frontend Development**
 - ⚡ Fun fact: **I love Football**
 
-## Tech Stack <img src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif" height="25px">
+## Tech Stack <img src="https://cdn-icons-png.flaticon.com/512/10262/10262344.png" height="30px">
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
