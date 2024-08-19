@@ -26,7 +26,7 @@ Enthusiastic and punctual professional with a strong focus on career growth. Dem
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## My Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malayit23&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malayit23&show_icons=true&theme=dracula)
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
