@@ -7,7 +7,7 @@ Enthusiastic and punctual professional with a strong focus on career growth. Dem
 - 💬 Ask me about **Frontend Development**
 - ⚡ Fun fact: **I love Football**
 
-## Tech Stack
+## Tech Stack<img src="https://techstack.com/wp-content/uploads/2020/06/2nd-Screw-box-2.gif" height="32px">
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +25,7 @@ Enthusiastic and punctual professional with a strong focus on career growth. Dem
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## My Stats:
+## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malayit23&show_icons=true&theme=dracula)
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
