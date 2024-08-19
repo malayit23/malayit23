@@ -7,6 +7,11 @@ Enthusiastic and punctual professional with a strong focus on career growth. Dem
 - 💬 Ask me about **Frontend Development**
 - ⚡ Fun fact: **I love Football**
 
+## Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+
 ## Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malayit23&show_icons=true&theme=cobalt)
 ## Mostly Languages Used:
@@ -23,7 +28,7 @@ Enthusiastic and punctual professional with a strong focus on career growth. Dem
   <a href="mailto:malaychowdhury25@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
-<br>
+<br><br>
 
 :star: From [Malay](https://github.com/malayit23)
 
