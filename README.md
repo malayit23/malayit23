@@ -23,7 +23,8 @@ Enthusiastic and punctual professional with a strong focus on career growth. Dem
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=social&logo=java&logoColor=white)
+
 
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
