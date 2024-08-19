@@ -6,4 +6,6 @@ Enthusiastic and punctual professional with a strong focus on career growth. Dem
 - 🔭 I’m currently working on **Self Projects**
 - 💬 Ask me about **Frontend Development**
 - ⚡ Fun fact: **I love Football**
+
+## Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malayit23&show_icons=true&theme=cobalt)
