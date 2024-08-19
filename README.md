@@ -29,7 +29,7 @@ Enthusiastic and punctual professional with a strong focus on career growth. Dem
 ## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malayit23&show_icons=true&theme=dracula)
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+## Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/malay-krishna-chowdhury-b824aa242/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
