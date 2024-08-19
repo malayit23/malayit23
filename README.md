@@ -10,4 +10,6 @@ Enthusiastic and punctual professional with a strong focus on career growth. Dem
 ## Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malayit23&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 :star: From [Malay](https://github.com/malayit23)
