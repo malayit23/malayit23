@@ -1,3 +1,6 @@
+![Screenshot](https://github.com/malayit23/malayit23/blob/main/SL-122222-54830-32-removebg-preview.png)
+![Screenshot](https://github.com/malayit23/malayit23/blob/main/SL-122222-54830-32.jpg)
+
 # Hi there 👋, I'm Malay Krishna Chowdhury
 ![Screenshot](https://github.com/malayit23/malayit23/blob/main/8186043-removebg.png)
 
