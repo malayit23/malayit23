@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Malay Krishna Chowdhury
-![Screenshot]("https://github.com/malayit23/malayit23/blob/main/8186043-removebg.png")
+![Screenshot](https://github.com/malayit23/malayit23/blob/main/8186043-removebg.png)
 
 Welcome to my GitHub profile! I'm a passionate software developer specializing in Frontend Development.
 ## About Me :mortar_board:
